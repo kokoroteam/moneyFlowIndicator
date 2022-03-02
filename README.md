@@ -4,4 +4,4 @@
 
 #.. image:: https://mybinder.org/badge_logo.svg :target: https://mybinder.org/v2/gh/kokoroteam/moneyFlowIndicator.git/main
 
-.. image:: https://mybinder.org/badge_logo.svg :target: https://https://github.com/kokoroteam/moneyFlowIndicator.git/main
+.. image:: https://mybinder.org/badge_logo.svg :target: https://github.com/kokoroteam/moneyFlowIndicator.git/main
