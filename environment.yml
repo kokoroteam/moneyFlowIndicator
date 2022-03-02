@@ -5,6 +5,6 @@ dependencies:
   - numpy
   - pandas
   - pandas-profiling
-  - yahoo_app
+  - yfinance
   - pip:
       - moneyFlowIndicator
